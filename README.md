@@ -1,17 +1,39 @@
-# niftihub
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # NiftiHub
+
+A Flutter project.
+
+随着数字藏品得益于元宇宙的火爆而迅速发展，我国数字藏品市场已具备一定规模。随之面临的问题有数字藏品平台存在安全隐患，藏品有伪造侵权风险，基于区块链技术所带来的交易吞吐量受限。NiftiHub基于Corda区块链平台开发了一个数字藏品管理与交易系统，针对市场痛点，提供客户端、管理端，集成了数字藏品展示、收藏、交易、审核和创作铸造等功能。
+
+![image-20250130134649170](.assets/image-20250130134649170.png)
+
+## 管理员审核操作
+
+<img src=".assets/image-20250130134741863.png" alt="image-20250130134741863" /><img src=".assets/image-20250130134812413.png" alt="image-20250130134812413"/>![image-20250130134831144](.assets/image-20250130134831144.png)
+
+## 登录注册
+
+![image-20250130135018843](.assets/image-20250130135018843.png)![image-20250130135027014](.assets/image-20250130135027014.png)![image-20250130135033339](.assets/image-20250130135033339.png)
+
+## 首页
+
+![image-20250130135104621](.assets/image-20250130135104621.png)![image-20250130135114992](.assets/image-20250130135114992.png)
+
+## 藏品交易
+
+![image-20250130135133486](.assets/image-20250130135133486.png)![image-20250130135141631](.assets/image-20250130135141631.png)
+
+## 社群交流
+
+![image-20250130135202389](.assets/image-20250130135202389.png)![image-20250130135209078](.assets/image-20250130135209078.png)
+
+## 藏品展示柜 
+
+![image-20250130135225907](.assets/image-20250130135225907.png)![image-20250130135233070](.assets/image-20250130135233070.png)![image-20250130135236924](.assets/image-20250130135236924.png)![image-20250130135242237](.assets/image-20250130135242237.png)<img src=".assets/image-20250130135255652.png" alt="image-20250130135255652" style="zoom:90%;" /><img src=".assets/image-20250130135301888.png" alt="image-20250130135301888" style="zoom:90%;" />
+
+## 藏品铸造
+
+![image-20250130135418921](.assets/image-20250130135418921.png)![image-20250130135425093](.assets/image-20250130135425093.png)![image-20250130135429523](.assets/image-20250130135429523.png)
+
+## 客服
+
+![image-20250130135440540](.assets/image-20250130135440540.png)![image-20250130135445984](.assets/image-20250130135445984.png)
